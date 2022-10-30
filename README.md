@@ -6,3 +6,5 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 - [Introdução a Programação e Lógica](/Introdu%C3%A7%C3%A3o_Prog_Pensamento_Computacional/Introd_Progra_Logica.md)
 
 - [Python Teórico](/Teorico/Python.md)
+
+- [Desafio Análise de dados com Python e Pandas](/desafio01/comentarios_links.md)
