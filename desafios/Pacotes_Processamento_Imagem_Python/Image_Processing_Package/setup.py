@@ -13,7 +13,7 @@ setup(
     description="Image Processing Package using Skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/gabriellivieira/Bootcamp_data_science",
+    url="https://github.com/gabriellivieira/Bootcamp_data_science/tree/main/desafios/Pacotes_Processamento_Imagem_Python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
