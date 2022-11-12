@@ -3,9 +3,9 @@ Repositório destinado ao compartilhamento dos conteúdos estudados dentro do Bo
 
 Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus estudos. Além de compartilhar os desafios proposto.
 
-- [Introdução a Programação e Lógica](/teorico/introd_progra_logica.md)
+- [Introdução a Programação e Lógica](/Teorico/Introd_Progra_Logica.md)
 
-- [Python Teórico](/teorico/python.md)
+- [Python Teórico](/Teorico/Python.md)
 
 - [Desafio Análise de dados com Python e Pandas](/desafio01/comentarios_links.md)
 
