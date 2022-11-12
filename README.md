@@ -7,13 +7,13 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 
 - [Python Teórico](/Teorico/Python.md)
 
-- [Desafio Análise de dados com Python e Pandas](/desafios/comentarios_links.md)
+- [Desafio Análise de dados com Python e Pandas](/desafios/Analise_Dados_Python_Pandas/comentarios_links.md)
 
 - [Atividades - Estrutura de dados](/estrutura_de_dados_GitDIO)
 
 - [Atividades - Programação Orientado a Objeto](/programação_orientada_objetos_GitDIO)
 
-- [Desafio de Projeto - Pacotes de processamento de imagens em Python](/desafios/Comentario_Link_Package.md)
+- [Desafio de Projeto - Pacotes de processamento de imagens em Python](/desafios/Pacotes_Processamento_Imagem_Python/Comentario_Link_Package.md)
 
-- - [Desafio de Projeto - Criando modelos com Python e Machine Learning](/desafios/comentarios_Python_MechineLearning.md)
+- [Desafio de Projeto - Criando modelos com Python e Machine Learning](/desafios/Criando_Modelo_Python_Mechine_Learning/comentarios_Python_MechineLearning.md)
 
