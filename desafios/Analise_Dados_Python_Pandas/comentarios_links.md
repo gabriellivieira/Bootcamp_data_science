@@ -5,7 +5,7 @@ Olá, aqui você encontra algumas observações e links do Desafio de projeto "A
 Na primeira aula utilizei uma base tirada na internet para treinar os comandos ensinados.
 Enquanto que a análise exploratório foi utilizado o mesmo material que a professora, para que eu pudesse garantir que todos os comandos e análises ensinadas seriam replicados e entregues.  
 
-Também esta disponível nesta pasta "desafio01", os arquivos .xslx e .csv das bases utilizadas.
+Também esta disponível nesta pasta "Analise_Dados_Python_Pandas", os arquivos .xslx e .csv das bases utilizadas.
 
 ### Links do Drive
 

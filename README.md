@@ -7,10 +7,13 @@ Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus 
 
 - [Python Teórico](/Teorico/Python.md)
 
-- [Desafio Análise de dados com Python e Pandas](/desafio01/comentarios_links.md)
+- [Desafio Análise de dados com Python e Pandas](/desafios/comentarios_links.md)
 
 - [Atividades - Estrutura de dados](/estrutura_de_dados_GitDIO)
 
 - [Atividades - Programação Orientado a Objeto](/programação_orientada_objetos_GitDIO)
 
-- [Desafio de Projeto - pacotes de processamento de imagens em Python](https://github.com/gabriellivieira/Bootcamp_data_science/tree/main/desafios/Pacotes_Processamento_Imagem_Python/Image_Processing_Package)
+- [Desafio de Projeto - Pacotes de processamento de imagens em Python](/desafios/Comentario_Link_Package.md)
+
+- - [Desafio de Projeto - Criando modelos com Python e Machine Learning](/desafios/comentarios_Python_MechineLearning.md)
+
