@@ -3,8 +3,12 @@ Repositório destinado ao compartilhamento dos conteúdos estudados dentro do Bo
 
 Aqui você vai encontrar cada aula ou modulo que considerei relevante para meus estudos. Além de compartilhar os desafios proposto.
 
-- [Introdução a Programação e Lógica](/Introdu%C3%A7%C3%A3o_Prog_Pensamento_Computacional/Introd_Progra_Logica.md)
+- [Introdução a Programação e Lógica](/teorico/introd_progra_logica.md)
 
-- [Python Teórico](/Teorico/Python.md)
+- [Python Teórico](/teorico/python.md)
 
 - [Desafio Análise de dados com Python e Pandas](/desafio01/comentarios_links.md)
+
+- [Atividades - Estrutura de dados](/estrutura_de_dados_GitDIO)
+
+- [Atividades - Programação Orientado a Objeto](/programação_orientada_objetos_GitDIO)
