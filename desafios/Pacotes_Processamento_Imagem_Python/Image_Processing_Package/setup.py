@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
+    name="Processamento de imagem - Desafio DIO",
     version="0.0.1",
     author="Gabrielli",
     description="Image Processing Package using Skimage",
