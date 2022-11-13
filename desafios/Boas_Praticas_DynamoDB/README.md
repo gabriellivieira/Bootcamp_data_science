@@ -5,4 +5,4 @@ Olá, aqui você encontra os comandos utilizados para a criação e manipulaçã
 No projeto foram utilizados na conta gratuita da AWS os serviços Amazon DynamoDB e Amazon CLI para execução em linha de comando.
 
 
-- [Comandos de execução](/desafios/dynamoDB_comandos/comandos_execucao.md)
+- [Comandos de execução](/desafios/Boas_Praticas_DynamoDB/dynamoDB_comandos/comandos_execucao.md)
