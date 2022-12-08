@@ -13,13 +13,13 @@ Esta baseado em quatro pilares.
 - Abstração: Extrapolar o conceito de um problema para uma forma generalista - tira do mundo concreto para  o mundo das ideias.
 - Design de algoritmos: Automatização da resolução do problema. Define o passo a passo para a solução.
 
-![01.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/778b6588-b5d4-4a08-afdd-ff1900e197d3/01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212422Z&X-Amz-Expires=86400&X-Amz-Signature=4ecde57bb00ce5cdc29022075103484f9f50dec03d4d6dc595fef123806fcf60&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2201.jpg%22&x-id=GetObject)
+![01.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/778b6588-b5d4-4a08-afdd-ff1900e197d3/01.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010246Z&X-Amz-Expires=86400&X-Amz-Signature=bb0521c8e0a8f43eff5e8947577e682faaed57b12a6710edde96cf798511ba0d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2201.jpg%22&x-id=GetObject)
 
 Esse é um processo continuo, é importante estar aperfeiçoando esse algoritmo criado para a resolução do problema.
 
-![02.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ad03b9d-69f0-4464-988b-3bfb2a0b2220/02.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212436Z&X-Amz-Expires=86400&X-Amz-Signature=6cd957ed7a3eacc04b0f5dd4c51d0e2b01fc53a81eacf91711ffa8e55a61f3aa&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2202.jpg%22&x-id=GetObject)
+![02.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ad03b9d-69f0-4464-988b-3bfb2a0b2220/02.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010258Z&X-Amz-Expires=86400&X-Amz-Signature=9fb1ec0283a80cf2aad0d8f8a25ed27ce3277b64788de1e34dc01256d9e4b597&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2202.jpg%22&x-id=GetObject)
 
-![03.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24725b75-f03b-4fbb-9e53-36be55845fa6/03.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212452Z&X-Amz-Expires=86400&X-Amz-Signature=8e65a963e881c633c9811342699830e63d4ced21a78c30c89d3fa9f0cc67d348&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2203.jpg%22&x-id=GetObject)
+![03.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24725b75-f03b-4fbb-9e53-36be55845fa6/03.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010308Z&X-Amz-Expires=86400&X-Amz-Signature=cb5bf91ad041dd89c331346e40fef07bc6b6da0cf90211d9bf7e6097f6a7c359&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2203.jpg%22&x-id=GetObject)
 
 ## Habilidades complementares
 
@@ -28,7 +28,7 @@ Esse é um processo continuo, é importante estar aperfeiçoando esse algoritmo 
     - Dedução, a partir de leis e teorias se faz uma dedução, muito usado nas ciências exatas de forma a provar que a lei é valida.
     - Abdução, a partir de algo observado você pode tirar uma premissa. EX: A grama esta molhado e por isso deve ter chovido. Não necessariamente a abdução vai ser verdadeira. Muito usado em investigações.
 
-![04.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50542c48-6bb2-4219-a235-8092f3b540d4/04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212507Z&X-Amz-Expires=86400&X-Amz-Signature=89901ee0173e8213c986a55964ffb5176cbaa2a6c9df6ee8862f6d3ed5583324&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2204.jpg%22&x-id=GetObject)
+![04.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50542c48-6bb2-4219-a235-8092f3b540d4/04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010329Z&X-Amz-Expires=86400&X-Amz-Signature=a312238306d4cb8164fdcd2463ab7fd21b889c29f3f33d00e5140196ec9c0876&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2204.jpg%22&x-id=GetObject)
 
 - Aperfeiçoamento - A partir de uma solução se determina pontos de melhora e refinamento. Ao ato de aperfeiçoar temos:
     - Encontrar soluções eficientes;
@@ -67,7 +67,7 @@ Para usar esses dados, se usa uma **variável**, que é inconstante e que irá a
 
 Existe algumas regras para determinar o nome de uma variável.
 
-![download.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3dd573b-bd6c-4bba-8d63-66feaf6b7936/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212526Z&X-Amz-Expires=86400&X-Amz-Signature=5326ce8b069ffd90b35705196d037885330469c32b287f7658c761898c4b3ba0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download.jpg%22&x-id=GetObject)
+![download.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3dd573b-bd6c-4bba-8d63-66feaf6b7936/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010353Z&X-Amz-Expires=86400&X-Amz-Signature=426b3a8a403f3b27896198618d622e363e2ae9d18efdd3b9bb9634129fa24d55&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download.jpg%22&x-id=GetObject)
 
 **Constante**, são variáveis que são inalteráveis ou seja, possuem um valor fixo. EX: pi =3.14
 
@@ -75,7 +75,7 @@ Existe algumas regras para determinar o nome de uma variável.
 
 Determina as ações que serão executadas sobre nossos dados, geralmente são cálculos matemáticos usando os operadores (binário ou unário)
 
-![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f40c809-ef25-447a-b7a0-cc01ab6780e6/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212541Z&X-Amz-Expires=86400&X-Amz-Signature=8e07f38d5d209ed2a0697a26213a61bcae3e943974f14880ab31d6929186d4d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
+![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6f40c809-ef25-447a-b7a0-cc01ab6780e6/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010409Z&X-Amz-Expires=86400&X-Amz-Signature=20ed09a744dbd20832f34090124742dd6885dba89d14d704bd7f7ff7c1ebd368&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
 
 Definição formal: Instruções são linguagem de palavras-chave (vocabulário) de uma determinada de programação que tem por finalidade comandar um computador que irá tratar os dados.
 
@@ -83,9 +83,9 @@ Definição formal: Instruções são linguagem de palavras-chave (vocabulário)
 
 Dado um estado de uma pessoa ou coisa existe uma condição que executa uma determinada instrução/operação.
 
-![download (2).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ac647495-af47-4130-bdce-11e6a0c62e15/download_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212557Z&X-Amz-Expires=86400&X-Amz-Signature=407f1b402f8625ceb7b481a34fa73a0d7460723888761507b1c54e98f9fa7371&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%282%29.jpg%22&x-id=GetObject)
+![download (2).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ac647495-af47-4130-bdce-11e6a0c62e15/download_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010427Z&X-Amz-Expires=86400&X-Amz-Signature=2bbd8a5e72c4640c3d2fd70835207a504e32a56284508a3e8da00de4c8994287&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%282%29.jpg%22&x-id=GetObject)
 
-![download (3).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5935c457-81f1-431c-8c08-6a2f5b2db61a/download_%283%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212615Z&X-Amz-Expires=86400&X-Amz-Signature=cb9c2739c1ab4bf750bc84bef23e404e9a6cbc1d6a13814f60ffa0c0423c1200&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%283%29.jpg%22&x-id=GetObject)
+![download (3).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5935c457-81f1-431c-8c08-6a2f5b2db61a/download_%283%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010438Z&X-Amz-Expires=86400&X-Amz-Signature=695e137055a7fb8f7502c66283ee32bd764a7ecc4ef24c354534df512f53df7c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%283%29.jpg%22&x-id=GetObject)
 
 **Operadores lógicos** - AND, OR e NOT, se usa quando precisa de uma resposta simplificada como verdadeiro ou falso. 
 
@@ -97,7 +97,7 @@ A estrutura de repetição é interessante para a redução de linhas, compreens
 
 EX de estrutura de repetição
 
-![download (4).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7895edab-00fd-4a0e-8fcc-d7b839fea2d0/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212627Z&X-Amz-Expires=86400&X-Amz-Signature=41f7e629fbfbaa956e817eb2dec8483a1f1b6f62924fb41f5d7f543261f2159e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
+![download (4).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7895edab-00fd-4a0e-8fcc-d7b839fea2d0/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010454Z&X-Amz-Expires=86400&X-Amz-Signature=4a9ba54a499853e9a88b5c1b7121355716ce9e6792c4aa6c719f21b55e58e09b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
 
 ### Vetores e Matrizes
 
@@ -107,17 +107,17 @@ Matriz é uma tabela organizada em linhas e colunas no formato m X n, onde m rep
 
 EX de vetor01:
 
-![download (5).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fa7c0b97-20d7-4877-b0b7-b4662afd088e/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212639Z&X-Amz-Expires=86400&X-Amz-Signature=b841841e181dd80dbaab9432d399991c6e105913ebd70be8cf15ba5f883a10bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
+![download (5).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fa7c0b97-20d7-4877-b0b7-b4662afd088e/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010512Z&X-Amz-Expires=86400&X-Amz-Signature=1a3e0724a1cf2022ba532c733bfbb13e3e1ca84e5b64903489fbb3dad70e7bbc&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
 
 EX de vetor 02:
 
-![download (6).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fa7c0b97-20d7-4877-b0b7-b4662afd088e/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212639Z&X-Amz-Expires=86400&X-Amz-Signature=b841841e181dd80dbaab9432d399991c6e105913ebd70be8cf15ba5f883a10bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
+![download (6).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ebb86f5d-74bc-4071-ba26-786d5a3e1022/download_%286%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010524Z&X-Amz-Expires=86400&X-Amz-Signature=2d6ac55799e1bcea98871bc70732a980184b6a594d798b79cb53193feadef4b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%286%29.jpg%22&x-id=GetObject)
 
 EX de matriz:
 
-![download (7).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2eccbd8f-9e6a-44be-bc5f-b2e670835656/download_%287%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212705Z&X-Amz-Expires=86400&X-Amz-Signature=754627f4b50d496e20510a0c04052816fbd67e86cb6d02eb47164913e5762b07&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%287%29.jpg%22&x-id=GetObject)
+![download (7).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2eccbd8f-9e6a-44be-bc5f-b2e670835656/download_%287%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010540Z&X-Amz-Expires=86400&X-Amz-Signature=c6d0ec6bfc94353956493ea6d2f10832223b00ab71767219734e707d75a9082d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%287%29.jpg%22&x-id=GetObject)
 
-![download (8).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81b1764d-dbff-401f-9c58-07b73a7b4217/download_%288%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212716Z&X-Amz-Expires=86400&X-Amz-Signature=7027c6d63ffbf625e5f8ac02b63321fc71a016931ccc6348f1857f363f06f64f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%288%29.jpg%22&x-id=GetObject)
+![download (8).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81b1764d-dbff-401f-9c58-07b73a7b4217/download_%288%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010552Z&X-Amz-Expires=86400&X-Amz-Signature=f06210e4d729ab3f4af8ee442eae187ad715c77c1102d48eae8d8a3b6bbf0f3e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%288%29.jpg%22&x-id=GetObject)
 
 ### O que são funções?
 
@@ -133,7 +133,7 @@ Benefícios:
 
 Ex de função:
 
-![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23c4133e-82c1-4acd-b31a-4fddb07dcfe7/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212728Z&X-Amz-Expires=86400&X-Amz-Signature=9cf9b9d0983351f7c295f6f17d0d285c22cac685937f865c0286d10a2fb22dd9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
+![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23c4133e-82c1-4acd-b31a-4fddb07dcfe7/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010609Z&X-Amz-Expires=86400&X-Amz-Signature=566cf7cb47b60c78a2f9542b2b021e1a60cc7beea1a7cdb82834ab9f8ba71428&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
 
 ### Instruções de entrada e saída
 
@@ -151,9 +151,9 @@ Dentro do algoritmo existem dois tipos de saídas: Por interrupção (Definida p
 
 Para um computador entender um programa (amontoada de palavras senão for possível o computador entender) que é compilado, ou seja, traduzido. Então, com uma linguagem de alto-nível (como Python, Java) o código fonte é enviado para um compliador que vai fazer a análise do programa e traduzir para uma linguagem de baixo nível, um programa objeto.
 
-![download (10).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b3fe390-a5d5-4553-9cf7-6ce821e4d120/download_%2810%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212743Z&X-Amz-Expires=86400&X-Amz-Signature=a059054780a7107767ba28bbd0157d1d21c67fe6f21f176a8205bef61f58b764&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%2810%29.jpg%22&x-id=GetObject)
+![download (10).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b3fe390-a5d5-4553-9cf7-6ce821e4d120/download_%2810%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010639Z&X-Amz-Expires=86400&X-Amz-Signature=fdf08e903bf04f9f5ca9f2b65fbd7ccb3575a0d1837a4e7fbe727dbaabda6a96&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%2810%29.jpg%22&x-id=GetObject)
 
-![download (11).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38a7c061-407f-4d1a-af38-204df265d994/download_%2811%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T212806Z&X-Amz-Expires=86400&X-Amz-Signature=061d4fec552cc3c501dd53f16c14b3ce335a037a667681ec57accb7510c1622b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%2811%29.jpg%22&x-id=GetObject)
+![download (11).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38a7c061-407f-4d1a-af38-204df265d994/download_%2811%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T010653Z&X-Amz-Expires=86400&X-Amz-Signature=349cb3e458e1d7f90ee65eb4341232fc4997c653f9eecabc4aea3cec220d73a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%2811%29.jpg%22&x-id=GetObject)
 
 - Tradução: executa mais rápido. Ex: C++ e Java.
 - Interpretação tem maior flexibilidade mas é ideal para programas menores por ser mais lento. EX: Python, Ruby e Javascript.
