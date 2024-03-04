@@ -9,7 +9,8 @@ Os tipos definem as características e comportamentos de um valor (objeto) para 
 - Booleano: representa verdadeiro e falso na classe **bool**. Em Python booleano é uma sub classe de int, onde qualquer número diferente de 0 representa verdadeiro e o 0 é falso.
 - Strings: Usados para representar valores alfanuméricos, na classe **str**.
 
-![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/48c938c3-4ec1-40fa-bd04-ce13a3cb1889/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T003808Z&X-Amz-Expires=86400&X-Amz-Signature=d8b0b7fc76f7cd2b7c1d632384ccf150f4e8c0cfa2d1f2a1a16b87676103fc94&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
+![Sem título](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/4a42f8ed-ea2e-4d69-9527-a820f0150963)
+
 
 ## Variáveis e constantes
 
