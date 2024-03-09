@@ -16,7 +16,7 @@ Os tipos definem as características e comportamentos de um valor (objeto) para 
 
 Variáveis são usadas quando o valor de um objeto pode sofrer alterações durante a execução o programa, enquanto as constantes são valores fixos e não altera durante a execução do programa.
 
-Diferentes de outras linguagens que possuem uma palavra reservada para determinar se uma variável é ou não constante, no Python não existe e para determinar se uma variável é constante basta escrever ela em MAIÚSCULO, de acordo com conversão.
+Diferentes de outras linguagens que possuem uma palavra reservada para determinar se uma variável é ou não constante, no Python não existe e para determinar se uma variável é constante basta escrever ela em MAIÚSCULO, de acordo com convenção.
 
 ### Boas Práticas
 
@@ -48,7 +48,8 @@ E a **exponenciação** se usa ** .
 
 Para as operações o Python segue a ordem matemática para os calculos. 
 
-![download (2).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e1a7de23-9eaf-4e4e-8fba-410e3272380d/download_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T003853Z&X-Amz-Expires=86400&X-Amz-Signature=f7a8b23a47c1da895e03f6ab92624fe4f845ba3e757bcb9891a7639f0692bc5d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%282%29.jpg%22&x-id=GetObject)
+![a-ordem-das-operacoes-em-expressoes-matematicas](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/aa0bdbf1-10f3-4416-a196-511d21fe9cd6)
+
 
 ### Operadores de comparação
 
