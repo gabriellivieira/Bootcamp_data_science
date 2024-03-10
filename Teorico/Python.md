@@ -72,13 +72,15 @@ São operadores utilizados em conjunto com os operadores de comparação, para m
 
 São utilizados para comparar se os mesmos objeto testados ocupam o mesmo espaço/região de memória.
 
-![download (3).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8428976b-6b4d-4188-be4a-0fceb792fdff/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T003941Z&X-Amz-Expires=86400&X-Amz-Signature=1076f65ad4ef697b24b94345f06a6d5ad95786031732599c6b5f523b79b0e74c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
+![Sem título2](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/04932d6f-0ce9-49b7-ab0e-0b3603df07b8)
+
 
 ### Operadores de associação
 
-Usado para verificar se um objeto esta presente na sequência.
+Usado para verificar se um objeto esta presente na sequência/variável.
 
-![download (4).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8428976b-6b4d-4188-be4a-0fceb792fdff/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004104Z&X-Amz-Expires=86400&X-Amz-Signature=902657c15bbeab1e0fac87f97f7fbc6a5ef7defada97c6a6dc27438a23665e32&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
+![download](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/db89f498-9db1-41ae-a803-d01cced4c13f)
+
 
 ## Estruturas condicionais e de repetição
 
