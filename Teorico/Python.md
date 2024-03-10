@@ -86,15 +86,30 @@ Usado para verificar se um objeto esta presente na sequência/variável.
 
 ### Indentação e blocos
 
-Identar código é uma forma de manter o código fonte mais legível e manutenível, mas em Python ela exerce a função de determinar onde um bloco de comando inicia com ( : ) mas onde termina é determinado pela identação, diferente de outras  linguagens onde existe caracteres que fazem essa delimitação.
+Identar código é uma forma de manter o código fonte mais legível e manutenível, mas em Python ela exerce a função de determinar onde um bloco de comando inicia com ( : ) mas onde termina é determinado pela indentação, diferente de outras  linguagens onde existe caracteres que fazem essa delimitação.
 
 Em Java por exemplo, é usado as chaves para identificar o fim de cada bloco.
+Mesmo sem a indentação o código em Java irá funcionar.
 
-![download (5).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/909f74d8-3fb9-4f13-8221-daf1250737fc/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004404Z&X-Amz-Expires=86400&X-Amz-Signature=1e561d9bf69fb79e70be818035aeeaf46797ff8ef6d5d9479ee155fa4d7df517&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
+~~~
+void sacar (double valor) { // inicio do bloco do método
+    if (this.saldo >= valor) { // inicio do bloco do if
+        this.saldo -= valor;
+    } // fim do bloco do if
+} // fim do bloco do método
+~~~
+
 
 Mas em Python, existe uma convensão de boas práticas onde é indicado utilizar 4 espaços em branco por nível de indentação, ou seja, a cada novo bloco adicionamos 4 novos espaços em branco.
+Diferente de Java o Python precisa da indentação para funcionar. 
 
-![download (6).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/64b799ce-d946-4fd9-961d-e374af2549a0/download_%286%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004147Z&X-Amz-Expires=86400&X-Amz-Signature=2a39f477fdb3d822ea50e3d994a436d8f754db1d8e51d2827dbc264a9124bd2c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%286%29.jpg%22&x-id=GetObject)
+~~~
+def sacar(self, valor: float) -> None:
+    if self.saldo >= valor:
+        self.saldo -= valor
+    # fim bloco if
+# fim do bloco do método
+~~~
 
 ### Estruturas condicionais
 
