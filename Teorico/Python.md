@@ -129,19 +129,25 @@ São utilizadas para repetir um trecho do código um determinado número de veze
 
 Estrutura de repetição exemplo (não esta na sintase usada pelo Python).
 
-![download (7).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94c6de29-4135-4995-a0a7-b4433bea7b30/download_%287%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004434Z&X-Amz-Expires=86400&X-Amz-Signature=b28220f54c5a906652a71b73883c55617719607777304b2131e852a7193c1828&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%287%29.jpg%22&x-id=GetObject)
+![download (1)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/97099841-efff-42e8-a7e8-0881677f623c)
+
 
 Para fazer essa repetição pode ser usado o comando **for** em momento onde sabemos o número exato de vezes que o bloco de código deve ser executado, ou quando queremos percorrer um objeto interável.
+
+![download (2)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/fddf7215-6b22-48c4-bc00-fca2d60b6cab)
+
 
 Também é possível utilizar a função **built-in range**, usada para produzir uma sequência de números inteiros a partir de um ínicio (inclusivo) para um fim (exclusivo), isso significa que em um range de 0 à 10 o 10 não será incluso. 
 
 Se usarmos range (i, j) será produzido: i, i+1, i+2, i+3, …, j-1. Ela recebe 3 argumentos: stop (obrigatório), start (opcional) e step (opcional).
 
-![download (8).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1512b437-9d3e-4909-866f-108cc4b3d9f3/download_%288%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004630Z&X-Amz-Expires=86400&X-Amz-Signature=be8d1b82c1bff5ab56ea83b2a5237c8d7bbce1ad2571fd0ab3526f9d441e908f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%288%29.jpg%22&x-id=GetObject)
+![download (3)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/6c408f9d-cbac-49d9-afd3-42b47c14821d)
+
 
 Também é possível utilizar o comando **while** para repetir um bloco de código varias vezes. Ideal para quando não existe um número exato de vezes em que o código deve ser executado, onde o código será executado até acontecer determinada ação.
 
-![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3d8bd9f0-e52d-40d6-a85b-8fdf1573116d/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004758Z&X-Amz-Expires=86400&X-Amz-Signature=690df31035eb86ac411fdebf6485ae0e6aeba84de94b10f98f570dbc11ebdad1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
+![download (4)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/75edee89-2236-4459-90e3-2c0d982966bf)
+
 
 Dentro das estruturas de repetição existe a palavra reservada **break** que determina o fim da repetição de um laço infinito ao ser informado um valor especifico. 
 
