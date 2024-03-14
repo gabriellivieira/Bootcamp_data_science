@@ -162,19 +162,39 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
 - Método upper - Converte os caracteres da variável em maiúsculo.
 - Método lower - Converte os caracteres da variável em minusculo.
 - Método tittle - Converte os caracteres da variável em título deixando somente a primeira letra maiúscula.
-    
-    ![download (2).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9ca60b8e-51a7-4adc-8670-1715929d7cd9/download_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T004958Z&X-Amz-Expires=86400&X-Amz-Signature=6aa672afacb25a3da2dd2f36c2d86416ad249f86919ff721eeeb2b4c9005338f&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%282%29.jpg%22&x-id=GetObject)
+
+~~~
+
+nome = "gabrielli"
+
+print(nome.upper())
+print(nome.lower())
+print(nome.title())
+
+~~~
     
 - Método strip - Corta os espaços em branco na esqueda e direita da variárel.
 - Método lstrip - Corta os espaços em branco na esqueda da variárel.
 - Método rstrip -  Corta os espaços em branco na direita da variárel.
     
-    ![download (3).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a2ff3d2-c4e9-4636-a5ee-9ddb64ff6159/download_%283%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005027Z&X-Amz-Expires=86400&X-Amz-Signature=0cea391171548d3b463c734bd9a640e098a9b905a103f268a3add58c81208aeb&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%283%29.jpg%22&x-id=GetObject)
+   ~~~
+    print(texto.strip() + ".")
+    print(texto.lstrip() + ".")
+    print(texto.rstrip() + ".")
+
+   ~~~
     
 - Método center - Centraliza a variável centro do número de caracteres determinados, podendo informar um caracter para ocupar os espaços em branco.
 - Método join - Adiciona um caracter entre as letras, faz uma junção(join).
     
-    ![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f92cd07-5395-4990-a1e0-3e904f328598/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005141Z&X-Amz-Expires=86400&X-Amz-Signature=055a4bfd64db51a9a4202fafd060a5d8d584313448c7561e032f37fdafd4b189&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
+~~~
+
+    print(menu.center(14))
+    print(menu.center(14, "#"))
+    print("####" + menu + "####")
+    print("-" .join(menu))
+
+~~~
     
     ### Interpolação de variáveis
     
@@ -184,46 +204,72 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
     
     - **Usando %** - Utiliza o sinal de %, pouco utilizado por diminuir a capacidade de manutenção do código.
         
-        ![download (5).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b0c3e75d-346b-426a-acbd-7fdd583f69de/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005351Z&X-Amz-Expires=86400&X-Amz-Signature=ba287cb01d1e033be4a7bf548d7df5b2fb68effa794eecff73db475a2f18dd93&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
+       ![Sem título](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/ae7b704a-8d4d-4a03-9908-36d8944e5740)
+
         
     - **Método format** - Se utiliza {} para concatenar variaveis a uma string. Muito parecido com o %, mas com uma capacidade um pouco maior de customização e elegibilidade.
         
-        ![download (4).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a939ec3-c386-4a50-9df7-42d1e3efaf01/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005404Z&X-Amz-Expires=86400&X-Amz-Signature=5d5b7127a14b8aa723e3c80c7135836368171717853571a85a725ba076ec3275&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
-        
-        ![download (6).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60c16a2b-ebf3-42ca-a5ba-de55b9f265cc/download_%286%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005416Z&X-Amz-Expires=86400&X-Amz-Signature=0b84a4fa56c71f2c3b13b797d2f3484b94effb84ad6a348bf80ab351b301c6df&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%286%29.jpg%22&x-id=GetObject)
+        ![Sem título2](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/005b666c-1c1f-4869-8bd4-f91c9c135d8c)
+
+        Ao invés de passar a posição da variável, também é possível nomear com o nome da variável. 
+        ![Sem título3](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/3a0be07d-3bc8-451a-b4d8-05cb6e5170c8)
+
         
     - **Usando f strings** - A forma mais utilizadas onde em {} se informa somente o nome da variável sem a necessidade de comandos adicionais. O f também é utilizado para determinar o número de casas em números dentro da string.
         
-        ![download (7).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae2295b0-7e7e-4411-8416-48a738dd9eb6/download_%287%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005439Z&X-Amz-Expires=86400&X-Amz-Signature=e95dd766c1fad3cc75b1263fd8dfeefc2a62986f15a7a1270bc7ce52cfe67397&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%287%29.jpg%22&x-id=GetObject)
-        
-        ![download (8).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a25f782a-416f-43b7-b81a-056559df21b3/download_%288%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005448Z&X-Amz-Expires=86400&X-Amz-Signature=7c159a21b75564ae6260b050d438ab5aa8a1be7a8d8f7285f634945c6d60c217&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%288%29.jpg%22&x-id=GetObject)
+    ![Sem título4](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/1ec4d2a1-6f72-46cb-9470-5a8ff7ca2436)
+
+
+    ![Sem título5](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/ce49fa78-5dbb-43a1-af46-025e5fa02a73)
+
         
     
     ### Fatiamento de string
     
     É uma técnica utilizada para retornar sbstrings (partes da string original), informando inicio (start), fim (stop) e passo (step): **[start: stop: step]**.
     
-    ![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a378490e-1788-4306-a688-a9f3db55ef96/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005515Z&X-Amz-Expires=86400&X-Amz-Signature=083f3502eb1743f69b95e4400cc2a1687819f4247a5780c299b84725361524b6&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
+    ![Sem título6](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/c6ca4fb4-ea43-4a60-94b7-41ff19b40a20)
     
     ### Strings de múltiplas linhas
     
     São definidas informando 3 simples/duplas ou duas durante a atribuição. Elas podem ocupar várias linhas do código e todos os espaços em branco são incluídos na string final. Uso interessante quando será criado um menu um texto maior ao usuário.
     
+~~~
+    name = "Gabrielli"
+
+mensagem = f"""
+    Olá, meu nome é {name},
+Eu estou aprendendo Python.
+    Essa mensagem tem diferentes recuos.
+"""
+
+print(mensagem)
+
+~~~
+
     ## Listas
     
     É um sequencial que armazena qualquer tipo de objeto. Podemos criar listas utilizando o construtor “list”, a função range ou colando valores separados por virgula dentro de colchetes. 
+
+    ![download (5)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/7812d535-4811-4e5b-9390-08aefa76c293)
     
     Para acessar os valores da lista é o **acesso direto**, por ser uma sequencia a lista pode ser acessada utilizando os índices que é contado apartir de zero. 
     
     Sequências suportam indexação negativa, começando em **-1** , ideal para começar a contar o índece de trás para crente ou descrecente.
     
-    Por ser um objeto, a lista pode armazenar outras listas, chamada assim de lista aninhada.  O **fatiamento** usado nas strings também pode ser usado nas listas. 
+    Por ser um objeto, a lista pode armazenar outras listas, chamada assim de **lista aninhada**.  
     
-    ![download.jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d116eac7-818f-4066-bc7e-714e53f9dd4a/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005541Z&X-Amz-Expires=86400&X-Amz-Signature=5bede237b1733b91c384c8aef2175c8a72ceda1e980dcb8f3cf6a62f58ed6c1c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download.jpg%22&x-id=GetObject)
+    ![download (6)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/96b1d6d7-4d09-4bf0-ba0b-e3de0a7ff26d)
+    
+    O **fatiamento** usado nas strings também pode ser usado nas listas. 
+    
+   ![download (7)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/ca89bb10-ddf9-4136-91ba-633f77132eef)
+
     
     Para percorrer os valores da lista usamos o comando **for**, podendo ser usado o índice da lista usando o comando **enumerate**.
     
-    ![download (1).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51c25a35-d0e4-4f36-b812-7f0facd8f462/download_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005552Z&X-Amz-Expires=86400&X-Amz-Signature=89be52b36275f2a244b874e75cd548174ff323d50b1ba6081af98cb602641400&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%281%29.jpg%22&x-id=GetObject)
+    ![download (8)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/864daa1d-d312-448c-aa76-b536d595bfa8)
+
     
      Para criar uma lista com base em valores de uma lista já existe (filtro) ou gerar uma nova lista aplicando modificações nos elementos de ums lista existente podemos usar a sintaxe mais curta de **compreensão de lista**.
     
