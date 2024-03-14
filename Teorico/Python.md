@@ -237,13 +237,13 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
     ~~~
     name = "Gabrielli"
 
-mensagem = f"""
-    Olá, meu nome é {name},
-Eu estou aprendendo Python.
-    Essa mensagem tem diferentes recuos.
-"""
+    mensagem = f"""
+        Olá, meu nome é {name},
+    Eu estou aprendendo Python.
+        Essa mensagem tem diferentes recuos.
+    """
 
-print(mensagem)
+    print(mensagem)
 
     ~~~
 
@@ -275,19 +275,23 @@ print(mensagem)
     
      Filtro sem a compreensão
     
-    ![download (2).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/89de289a-f951-4c34-93bc-2b01a02c590b/download_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005606Z&X-Amz-Expires=86400&X-Amz-Signature=0d41a412d9caf8e1942d82668f3c1009e4758ec003fa9ff2b9851aca768af5fc&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%282%29.jpg%22&x-id=GetObject)
+    ![download (9)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/532efe46-a831-4ef6-9065-ea09f13e9c88)
+
     
-    Filtro com a compreensão.
+    Filtro com a compreensão(comprehension).
     
-    ![download (3).jpg](https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F43cb910b-6a53-47d2-9ced-dbd55f84e723%2Fdownload_(3).jpg?id=4c78275a-4900-4588-81ae-59fd745e5b46&table=block&spaceId=47370e3a-ad05-454d-986b-f9ff4d8322d6&name=download%20(3).jpg&userId=bc5e79c9-9cf4-46bf-9ac5-701553559884&cache=v2)
+    ![download (10)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/ff059126-a709-4b13-8390-1f7947c64ac8)
+
     
     Modificando o valor sem a compreensão.
     
-    ![download (4).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2277d799-b8b7-4dfe-b595-0ab63c860054/download_%284%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005630Z&X-Amz-Expires=86400&X-Amz-Signature=75cc9e2924cdddf85e7e25eb978353d2319070954566d083426c5402cc2fe939&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%284%29.jpg%22&x-id=GetObject)
+    ![download (11)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/673d4900-550c-463c-8d2d-2889580131b6)
+
     
     Modificando com a compreensão.
     
-    ![download (5).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fa5dfbfd-5a87-4f5c-97d0-495f7c02f155/download_%285%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005645Z&X-Amz-Expires=86400&X-Amz-Signature=8edaf96920d50585039670d596a830c4b8ab3820fa5e04898e0f6c0558f450a7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%285%29.jpg%22&x-id=GetObject)
+    ![download (12)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/c0854665-e25b-4794-8d82-672c7bb0e6b0)
+
     
     ### Métodos da lista
     
@@ -303,16 +307,10 @@ print(mensagem)
     - **[].remove** : Remove um objeto identidicando o objeto propriamente dito, removendo o primeiro que encontrar na lista.
     - **[].reverse** : Pegar uma lista e fazer o espelhamento.
     - **[].sort** : Ordenar uma lista, podendo ser usado outros comandos em conjunto como o reverser para ordenar de trás para frente, ou usando uma função anonima como lambda  (key=lambda) para ordenar por tamanho da string.
-        
-        ![download (6).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23953a80-8448-4657-9770-31c74cc0ea08/download_%286%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005707Z&X-Amz-Expires=86400&X-Amz-Signature=d33cff1a823dbfe33540a973def416be9cf02080dc77ea7b48d56beb8e0519ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%286%29.jpg%22&x-id=GetObject)
-        
     - **len** : Identificar o tamanho da lista.
     - **sorted** : função usada também para ordenar interaveis, parecido com o [].sort.
         
-        ![download (7).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d6b81946-c4d5-40a6-b439-9a663324cc56/download_%287%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005735Z&X-Amz-Expires=86400&X-Amz-Signature=235c8c1e107a85c0c8668a28eb2eb8035baea766a1ab555deae412bfd6a0da03&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%287%29.jpg%22&x-id=GetObject)
-        
-    - 
-    
+
     ## Tupla
     
     Tuplas diferentes das listas são imutaveis, ou seja, os valores não são alteraveis até o fim da execução do programa como como acontece com as listas sendo esta a unica diferença entre uma tupla e uma lista. Para criar uma tupla podemos usar a classe tuple, ou colocando valores separados por vírgula  de parenteses.
