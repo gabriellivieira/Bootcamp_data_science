@@ -163,15 +163,15 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
 - Método lower - Converte os caracteres da variável em minusculo.
 - Método tittle - Converte os caracteres da variável em título deixando somente a primeira letra maiúscula.
 
-~~~
+    ~~~
 
-nome = "gabrielli"
+        nome = "gabrielli"
 
-print(nome.upper())
-print(nome.lower())
-print(nome.title())
+        print(nome.upper())
+        print(nome.lower())
+        print(nome.title())
 
-~~~
+    ~~~
     
 - Método strip - Corta os espaços em branco na esqueda e direita da variárel.
 - Método lstrip - Corta os espaços em branco na esqueda da variárel.
@@ -187,14 +187,14 @@ print(nome.title())
 - Método center - Centraliza a variável centro do número de caracteres determinados, podendo informar um caracter para ocupar os espaços em branco.
 - Método join - Adiciona um caracter entre as letras, faz uma junção(join).
     
-~~~
+    ~~~
 
     print(menu.center(14))
     print(menu.center(14, "#"))
     print("####" + menu + "####")
     print("-" .join(menu))
 
-~~~
+    ~~~
     
     ### Interpolação de variáveis
     
@@ -234,7 +234,7 @@ print(nome.title())
     
     São definidas informando 3 simples/duplas ou duas durante a atribuição. Elas podem ocupar várias linhas do código e todos os espaços em branco são incluídos na string final. Uso interessante quando será criado um menu um texto maior ao usuário.
     
-~~~
+    ~~~
     name = "Gabrielli"
 
 mensagem = f"""
@@ -245,7 +245,7 @@ Eu estou aprendendo Python.
 
 print(mensagem)
 
-~~~
+    ~~~
 
     ## Listas
     
