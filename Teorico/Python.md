@@ -315,7 +315,8 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
     
     Tuplas diferentes das listas são imutaveis, ou seja, os valores não são alteraveis até o fim da execução do programa como como acontece com as listas sendo esta a unica diferença entre uma tupla e uma lista. Para criar uma tupla podemos usar a classe tuple, ou colocando valores separados por vírgula  de parenteses.
     
-    ![download (8).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/757be9e4-9aaf-4d62-bde4-c35cae957e9c/download_%288%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005746Z&X-Amz-Expires=86400&X-Amz-Signature=9fa2f92c48b413d9165299313b9338666654ad99ef56dd081b0e9e512f9f61d1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%288%29.jpg%22&x-id=GetObject)
+   ![download](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/750db8a7-1f56-41ea-9096-4750d8d7c479)
+
     
     Para acessar diretamente os valores da tupla ou usar indices negativos utilizamos os mesmos comandos que a lista. Pois os comandos em objetos em sequencias são os mesmos, sendo uma tupla ou lista. 
     
@@ -357,7 +358,7 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
     
     Segue formas de criar um dicionario. 
     
-    A tericeira forma também é a forma de acessar o dicionário. 
+    A terceira forma também é a forma de acessar o dicionário. 
     
     ![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d51d5aa5-2a50-4f85-bf0c-fb8a5f4f45e7/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005905Z&X-Amz-Expires=86400&X-Amz-Signature=0df7e6385491ac439fda4ac149f1a6e73f18f1dd13f451be1bfbab33e2327075&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
     
