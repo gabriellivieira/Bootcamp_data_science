@@ -360,11 +360,12 @@ Esta classe é famosa em Python por ser rica em métodos e possui uma interface 
     
     A terceira forma também é a forma de acessar o dicionário. 
     
-    ![download (9).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d51d5aa5-2a50-4f85-bf0c-fb8a5f4f45e7/download_%289%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005905Z&X-Amz-Expires=86400&X-Amz-Signature=0df7e6385491ac439fda4ac149f1a6e73f18f1dd13f451be1bfbab33e2327075&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%289%29.jpg%22&x-id=GetObject)
+   ![download (1)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/21b8331a-e4de-4d12-adcb-8bcda8153224)
     
     Exemplo mostrando a criação de 4 dicionários, cada um com seus valores e abaixo o acesso a um desses docionário e o valor.
     
-    ![download (10).jpg](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65bdc7c4-44a1-434d-a934-bcff30a7a065/download_%2810%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T005917Z&X-Amz-Expires=86400&X-Amz-Signature=34bd13cf799aa4a2937e4fec1618eaa37161199380b5b763190977b9ff3b938b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22download%2520%2810%29.jpg%22&x-id=GetObject)
+    ![download (2)](https://github.com/gabriellivieira/Bootcamp_data_science/assets/112736236/058333a0-17f3-480e-8f6e-b70af8e04d6b)
+
     
     ### Métodos
     
